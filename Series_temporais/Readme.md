@@ -6,10 +6,7 @@ Este projeto visa realizar uma apresentação sobre como trabalhar com datas, t�
 ## Funcionalidades
 
 ### Manipulação de Datas
-O módulo `datetime` é utilizado para manipulação eficiente de datas, fornecendo funcionalidades essenciais para análise temporal.
-
-### Processamento de Dados com NumPy e Pandas
-As bibliotecas `numpy` e `pandas` são empregadas para o processamento eficiente de dados. Elas facilitam a manipulação e a análise de dados, sendo essenciais para a exploração e preparação dos dados do PDI.
+O módulo `datetime` e as bibliotecas `numpy` e `pandas` são utilizados para manipulação eficiente de datas, fornecendo funcionalidades essenciais para análise temporal e outra funções dentro da análise dos dados.
 
 ### Análise de Séries Temporais
 O projeto inclui técnicas de análise de séries temporais, como:
