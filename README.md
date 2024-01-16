@@ -16,7 +16,7 @@ Os projetos são projetados para serem autoguiados. No entanto, os usuários pod
 * Conhecimento das principais ferramentas e bibliotecas de ciência de dados
 * Habilidade de comunicar resultados de ciência de dados de forma clara e concisa
 
-# Descrição
+## Descrição
 
 A ciência de dados é uma área em rápida expansão, com oportunidades de emprego crescentes. Para se destacar nesta área, é importante desenvolver habilidades técnicas sólidas.
 Os projetos de PDI deste repositório fornecem uma maneira prática de desenvolver essas habilidades. Os projetos são projetados para serem desafiadores, mas também acessíveis a estudantes e profissionais de todos os níveis de experiência.
