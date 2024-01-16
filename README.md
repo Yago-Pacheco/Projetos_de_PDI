@@ -1,2 +1,2 @@
-# apresentacoes_pr
+# Projetos de PDI
 Imagens e notebooks usados nas apresentações
